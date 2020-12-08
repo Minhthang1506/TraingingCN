@@ -1,4 +1,4 @@
 thu thoi ma
-conflit nua ne...
-abc
+them nua, conflit nua ne
+conflict
 abc
